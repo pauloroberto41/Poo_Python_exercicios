@@ -1,0 +1,1 @@
+# Exercício de Python com o uso de Programação Orietada a Objetos.
